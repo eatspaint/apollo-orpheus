@@ -1,0 +1,10 @@
+/.bundle
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+/config/spotify.yml
+
+/node_modules
+/public/webpack
+npm-debug.log
