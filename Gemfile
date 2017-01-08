@@ -13,7 +13,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'jquery-rails'
 gem 'jbuilder', '~> 2.5'
 # gem 'redis', '~> 3.0'
-gem 'rspotify'
+gem 'rspotify', '~> 1.19'
 gem 'repack', '2.1.5'
 
 group :development, :test do

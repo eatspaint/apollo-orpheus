@@ -4,6 +4,7 @@
 !/log/.keep
 !/tmp/.keep
 /config/spotify.yml
+/gems
 
 /node_modules
 /public/webpack
